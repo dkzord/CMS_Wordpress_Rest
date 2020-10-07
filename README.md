@@ -18,7 +18,7 @@ Projeto criado para estudo de utilização de CMS via WordPress. Desenvolvido no
 # 📘 Tecnologia utilizada
 
 - [WordPress](http://wordpress.org/)
-- [Plugin Adcanced Custom Field](https://www.advancedcustomfields.com/)
+- [Plugin Advanced Custom Field](https://www.advancedcustomfields.com/)
 - [PHP](https://www.php.net/)
 
 ---
